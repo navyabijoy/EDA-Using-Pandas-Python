@@ -25,6 +25,4 @@ The dataset provides intricate details about numerous roller coasters, featuring
 2. Ensure you have Jupyter Notebook and the required Python libraries installed.
 3. Open the notebook in Jupyter and run each cell sequentially to observe the cleaning process, basic analyses, and advanced visualizations.
 
-Feel free to dive into the cleaning methods, basic analyses, and advanced visualizations to gain a comprehensive understanding of the roller coaster dataset. Contributions and insights are warmly welcomed!
-
-Enjoy the exploration of roller coaster data – a thrilling adventure awaits! 🎢
+Feel free to dive into the cleaning methods, basic analyses, and advanced visualizations to gain a comprehensive understanding of the roller coaster dataset. Contributions and insights are warmly welcomed! 🎢
